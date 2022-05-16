@@ -132,3 +132,5 @@ equalBtn.addEventListener("click", () => {
   calculator.compute();
   calculator.updateDiplay();
 });
+
+let test = 20;
